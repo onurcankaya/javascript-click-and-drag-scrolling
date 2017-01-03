@@ -1,4 +1,4 @@
-# javascript-click-and-drag
+# javascript-click-and-drag-scrolling
 
 30 day vanilla javascript
 
